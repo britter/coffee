@@ -2,6 +2,8 @@
 
 A collection of links and information about coffee.
 
+![Image of my setup](https://raw.githubusercontent.com/britter/coffee/master/IMG_7190.jpg)
+
 ## Equipment
 
 This is the equiment I'm currently using:
