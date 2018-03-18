@@ -19,11 +19,11 @@ This is the equiment I'm currently using:
 I'm usually order at the following roasteries. I like medium roasted beans, especially from Ethiopia.
 
 - [The Barn](https://thebarn.de/) in Berlin.
-- [jb Kaffee](http://jbkaffee.de ) also in Berlin.
+- [jb Kaffee](http://jbkaffee.de ) in Dachau.
 - [Five Elephant](https://www.fiveelephant.com/) - another one from Berlin. They have great beans but the packaging is not resealable.
 - [quijote kaffee](https://www.quijote-kaffee.de/shop/filterkaffee) in Hamburg. This is the cheapest supplier, but they only have a few filter coffees in their catalog. Packaging is not resealable.
 - [Mahlefitz](http://www.mahlefitz.de/) in Munich.
-- [Machhoerndl Kaffee](https://www.machhoerndl-kaffee.de/) also in Munich.
+- [Machhoerndl Kaffee](https://www.machhoerndl-kaffee.de/) in Nürnberg.
 
 I haven't ordert at [Benson Coffee](https://benson.coffee/) but I heard that it is pretty good as well. [Kaffeezentrale](https://www.kaffeezentrale.de/) is a redistributor for several roasteries.
 
