@@ -16,7 +16,7 @@ This is the equiment I'm currently using:
 
 ## Beans
 
-I'm usually order at the following roasteries. I like medium roasted beans, especially from Ethiopia.
+I usually order at the following roasteries. I like medium roasted beans, especially from Ethiopia.
 
 - [The Barn](https://thebarn.de/) in Berlin.
 - [jb Kaffee](http://jbkaffee.de ) in Dachau.
@@ -25,11 +25,11 @@ I'm usually order at the following roasteries. I like medium roasted beans, espe
 - [Mahlefitz](http://www.mahlefitz.de/) in Munich.
 - [Machhoerndl Kaffee](https://www.machhoerndl-kaffee.de/) in Nürnberg.
 
-I haven't ordert at [Benson Coffee](https://benson.coffee/) but I heard that it is pretty good as well. [Kaffeezentrale](https://www.kaffeezentrale.de/) is a redistributor for several roasteries.
+I haven't ordered at [Benson Coffee](https://benson.coffee/) but I heard that it is pretty good as well. [Kaffeezentrale](https://www.kaffeezentrale.de/) is a redistributor for several roasteries.
 
 ## Brewing
 
-I follow the [brewing guide by Benjamin Ritzhammer](https://gist.github.com/benjmin-r/cf329baf0af88ddfe2bc830d1656e6cb). The [coffee brewing compass](https://baristahustle.com/blogs/barista-hustle/the-coffee-compass) helped a lot with getting started.
+I follow the [brewing guide by Benjamin Reitzammer](https://gist.github.com/benjmin-r/cf329baf0af88ddfe2bc830d1656e6cb). The [coffee brewing compass](https://baristahustle.com/blogs/barista-hustle/the-coffee-compass) helped a lot with getting started.
 
 ## License
 
