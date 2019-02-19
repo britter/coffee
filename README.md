@@ -22,6 +22,7 @@ I usually order at the following roasteries. I like medium roasted beans, especi
 - [jb Kaffee](http://jbkaffee.de ) in Dachau.
 - [Five Elephant](https://www.fiveelephant.com/) - another one from Berlin. They have great beans but the packaging is not resealable.
 - [quijote kaffee](https://www.quijote-kaffee.de/shop/filterkaffee) in Hamburg. This is the cheapest supplier, but they only have a few filter coffees in their catalog. Packaging is not resealable.
+- [elbgold](https://www.elbgoldshop.com/) also in Hamburg.
 - [Mahlefitz](http://www.mahlefitz.de/) in Munich.
 - [Machhoerndl Kaffee](https://www.machhoerndl-kaffee.de/) in Nürnberg.
 
