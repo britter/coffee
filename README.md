@@ -25,6 +25,7 @@ I usually order at the following roasteries. I like medium roasted beans, especi
 - [elbgold](https://www.elbgoldshop.com/) also in Hamburg.
 - [Mahlefitz](http://www.mahlefitz.de/) in Munich.
 - [Machhoerndl Kaffee](https://www.machhoerndl-kaffee.de/) in Nürnberg.
+- [Kijamii Kaffee](https://www.kijamii-kaffee.de/) in Witten. Fair trade coffee without a fair trade label.
 
 I haven't ordered at [Benson Coffee](https://benson.coffee/) but I heard that it is pretty good as well. [Kaffeezentrale](https://www.kaffeezentrale.de/) is a redistributor for several roasteries.
 
